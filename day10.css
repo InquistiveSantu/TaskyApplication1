@@ -1,0 +1,23 @@
+/* Element selector */
+/* h2{
+    color:aqua;
+    background-color: green;
+} */
+/* p{
+    color:aqua;
+    background-color: green;
+} */
+/* Element selector list */
+/* h2,p{
+    color:aqua;
+    background-color: green;
+} */
+ body{
+    color:blue;
+    background-color: aqua;
+    border: 2px dotted red;
+
+
+ }
+
+ 
